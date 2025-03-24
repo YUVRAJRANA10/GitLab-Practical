@@ -1,2 +1,2 @@
-merge1 is made to show merge conflict
-merge2 is made to show merge conflict
+mergse1 i0sfs maddsge to show merge conflict
+mesarge2 is made to showfd fsmerge conflict
