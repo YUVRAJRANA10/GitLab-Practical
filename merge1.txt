@@ -1,1 +1,2 @@
 merge1 is made to show merge conflict
+merge2 is made to show merge conflict
